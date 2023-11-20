@@ -1,11 +1,5 @@
 {
 
-  "version": "1.4.5-LTS",
-  "description": "Sodium Instance",
-  "type": "module",
-  "engines": {
-    "npm": ">=7.0.0",
-    "node": ">=16.0.0"
   },
   "scripts": {
     "start": "node index.js"
